@@ -31,8 +31,11 @@ headers = {
 
 # Making the API Request
 * The following code sends a **GET request** to the API with the defined **URL**, **headers**, and **query parameters**:
-<!-- python code block -->response = requests.get(url, headers=headers, params=querystring)
+<!-- Python block -->
+```python
+response = requests.get(url, headers=headers, params=querystring)
 
+```
 * This request is processed and returns a response containing job data.
 
 # Handling the Response
