@@ -87,3 +87,10 @@ Here is an image representing the *data extraction** process:
 
 # Tips
 Here are some **awesome tips** for improving this code:
+* *Parameterize the search inputs*: Allow users to dynamically choose job titles or locations.
+* *Handle pagination*: If the API returns a large amount of data, handle multiple pages.
+* *Logging:* Add logging to track the API requests and responses.
+
+# More awesome tips!
+* Add a user interface for easier job searches.
+* Schedule regular API calls to keep job data up-to-date.
