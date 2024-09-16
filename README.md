@@ -1,3 +1,6 @@
+![pexels-tara-winstead-8386440](https://github.com/user-attachments/assets/70ba4273-ebff-44de-ae58-d0fcc1d54395)
+
+
 # Introduction
 * This Python script is designed to fetch job data from the Active Jobs API and save the data in both JSON and CSV formats. The API allows you to search for jobs based on specific titles and locations. The script demonstrates how to handle API requests, parse the response, and store the data effectively in a structured format.
 
@@ -77,5 +80,10 @@ else:
  * Save data to CSV
    
  * Handle other job titles and locations
+# Images
+Here is an image representing the *data extraction** process:
+![Excel](https://github.com/user-attachments/assets/b15d4f4f-1688-4eed-a6d6-aff73c093c90)
+
+
 # Tips
 Here are some **awesome tips** for improving this code:
