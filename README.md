@@ -9,17 +9,24 @@
 [Active Jobs API](https://active-jobs-db.p.rapidapi.com/active-ats)
 
 The **querystring** parameters are as follows:
-<!-- python code block -->{
-    "title": "\"Cyber_Security\"",
+<!-- Python block -->
+
+```python
+{
+    "title": "\"Data Engineer\"",
     "location": "\"United States\""
 }
+```
 
 * These parameters define the **job title** and **location** we are searching for.
 
 # API Headers
-<!-- python code block -->headers = {
+<!-- Python block -->
+```python
+headers = {
     "x-rapidapi-key": "your_api_key_here",
     "x-rapidapi-host": "active-jobs-db.p.rapidapi.com"}
+```
 * **Important:** Make sure to replace `Your_API_Key_Here` with your actual **API key**.
 
 # Making the API Request
