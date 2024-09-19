@@ -14,7 +14,7 @@ The **querystring** parameters are as follows:
 
 ```python
 {
-    "title": "\"Data Engineer\"",
+    "title": "\"Cyber_Security\"",
     "location": "\"United States\""
 }
 ```
