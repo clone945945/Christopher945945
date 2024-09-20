@@ -8,7 +8,7 @@ querystring = {"title": "\"Cyber_security\"", "location": "\"United States\"","d
 
 # API Headers
 headers = {
-    "x-rapidapi-key": "1f884b1d47msh0088b625b9e754ap1564ddjsnb7c1f1da1714",
+    "x-rapidapi-key": "##########################",
     "x-rapidapi-host": "active-jobs-db.p.rapidapi.com"
 }
 
